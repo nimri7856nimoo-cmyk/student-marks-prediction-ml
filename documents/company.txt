@@ -1,0 +1,11 @@
+Company Name: TechCorp Pakistan
+CEO: Ahmed Ali
+Founded: 2010
+Location: Lahore, Pakistan
+Products: AI Software, Chatbots, Data Analytics
+Employees: 500
+Revenue: 50 million PKR per year
+Contact: info@techcorp.pk
+Office Hours: Monday to Friday 9am to 6pm
+Vision: To become the leading AI company in Pakistan
+Mission: Providing affordable AI solutions to businesses
