@@ -136,3 +136,20 @@ All conversations are stored in MongoDB with:
 ##  Author
 
 Developed as part of internship project using CrewAI and modern AI tools.
+
+This project now uses FastAPI to serve the multi-agent system via API and Swagger UI.
+## 🚀 How to Run
+
+Install requirements:
+uvicorn main:app --reload
+Open Swagger UI:
+http://127.0.0.1:8000/docs
+Here you can:
+
+Test endpoints
+Send requests
+View responses in real time
+main.py              # FastAPI entry point
+crew_agent.py        # (if still used internally)
+agents/              # Agent logic
+utils/               # Helper functions
