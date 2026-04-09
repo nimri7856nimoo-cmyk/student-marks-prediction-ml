@@ -179,3 +179,6 @@ __pycache__/
 .vscode/
 .env
 *.pyc
+faiss_index/
+.env
+__pycache__/
