@@ -190,3 +190,13 @@ __pycache__/
 
 # Ignore model file (optional)
 *.pkl
+documents/
+src/
+chatbot_groq.py
+langchain_agent.py
+langchain_chatbot.py
+main.py
+ocr_easyocr.py
+ocr_idcard.py
+ocr_multiple.py
+api_chatbot.py
