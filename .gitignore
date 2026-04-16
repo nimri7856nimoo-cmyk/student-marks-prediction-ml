@@ -182,3 +182,11 @@ __pycache__/
 faiss_index/
 .env
 __pycache__/
+# Ignore unnecessary folders
+crud_project/
+id_cards_folder/
+__pycache__/
+.venv/
+
+# Ignore model file (optional)
+*.pkl
